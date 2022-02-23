@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before Their Majesties in their chappel at St. James's the 25th. Sunday after Pentecost, November 17th. 1686 by J.D. of the Society of Jesus.</title>
+            <author>J. D. (John Dormer), 1636-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36356</idno>
+            <idno type="STC">Wing D1928</idno>
+            <idno type="STC">ESTC R8587</idno>
+            <idno type="EEBO-CITATION">12381493</idno>
+            <idno type="OCLC">ocm 12381493</idno>
+            <idno type="VID">60777</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60777)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 937:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before Their Majesties in their chappel at St. James's the 25th. Sunday after Pentecost, November 17th. 1686 by J.D. of the Society of Jesus.</title>
+                  <author>J. D. (John Dormer), 1636-1700.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nat. Thompson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pentecost season.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60777:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd before Their MAJESTIES In Their CHAPPEL at St. JAMES's The 25th. Sunday after <hi>Pentecoſt, November</hi> 17th. 1686.</p>
+            <p>By <hi>J. D.</hi> of the Society of <hi>Jeſus.</hi>
+            </p>
+            <p>Published by His Majeſties Command.</p>
+            <p>
+               <g ref="char:cross">✚</g>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Nat. Thompſon</hi> at the Entrance into <hi>Old Spring Garden</hi> near <hi>Charing Croſs,</hi> MDCLXXXVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:60777:2"/>
+            <pb n="1" facs="tcp:60777:2"/>
+            <head>A SERMON Preach'd before Their MAJESTIES The 25th. <hi>Sunday</hi> after <hi>Pentecoſt.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>Math. XIII. ver. 31.</bibl>
+                  <p>Simile eſt Regnum Coelorum Grano Sinapis.</p>
+                  <p>
+                     <hi>The Kingdom of Heaven is like to a Muſtard-ſeed.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">O</seg>Ne of the greateſt, and one of the leaſt of things, Sacred MAJESTY, this morning Arreſt my Thoughts; The Kingdom
+<pb n="2" facs="tcp:60777:3"/>of Heaven, and a Muſtard-ſeed. Had any but the Divine Author, deviſed this Parable, as the World now goes, the Propoſer, with your Pious, not over-wiſe, would have paſs'd for a diſ<g ref="char:EOLhyphen"/>parager of Heaven, for a Profaner of the Pulpit, and with your Worldlings, not over-charg'd with Piety, that might have prov'd the Subject of Railery, which coming from <hi>Chriſt,</hi> is a Sacred Myſtery, and ground of Reverence.</p>
+            <p>Hence we may learn, not to cloſe with firſt, and therefore often falſe ap<g ref="char:EOLhyphen"/>pearances; an over-ſight incident to Spirituals, not too profound, and to pretenders to Wit, not too Spiritual. Great things have a proportion with little, and little with great; a bit of Leven, a Muſtard-ſeed, with the King<g ref="char:EOLhyphen"/>dom of Heaven, witneſs the preſent Goſpel. Nothing ſo minute, nothing ſo remote, nothing ſo familiar, which
+<pb n="3" facs="tcp:60777:3"/>to a well diſpoſed mind, may not prompt Devout, and Pious Cogita<g ref="char:EOLhyphen"/>tions.</p>
+            <p>
+               <hi>Simile eſt Regnum Coelorum grano Si<g ref="char:EOLhyphen"/>napis; The Kingdom of Heaven</hi> (what more conſiderable?) <hi>is like unto a Mu<g ref="char:EOLhyphen"/>ſtard-ſeed;</hi> what more deſpicable? But if the one ſo great, the other ſo little, between ſo great and little, what ſimi<g ref="char:EOLhyphen"/>litude can there be? I crave your pa<g ref="char:EOLhyphen"/>tience, whilſt in requital, I endeavour to work it out.</p>
+            <p>God alone is truly great, and by a reference to God, all other things are great, and little. He's truly great, be<g ref="char:EOLhyphen"/>cauſe as the Royal Pſalmiſt pronoun<g ref="char:EOLhyphen"/>ceth, <hi>Pſal.</hi> 144. <hi>ver.</hi> 3. <hi>Magnitudinis ejus non eſt finis; His greatneſs has no End:</hi> For greatneſs where it ends, ceaſes to be great, ſo that a property of greatneſs is, either to have no end, or to increaſe.</p>
+            <pb n="4" facs="tcp:60777:4"/>
+            <p>The Muſtard-ſeed is one of the leaſt of Grains, True; yet conſigned to the Earth, when it ſeems buried, it re<g ref="char:EOLhyphen"/>vives; it riſes above the reſt of Herbs, becomes a Tree, ſmall in its ſelf, great in its increaſe; The Kingdom of Hea<g ref="char:EOLhyphen"/>ven is like to its increaſe, the King<g ref="char:EOLhyphen"/>dom of Heaven ever improves.</p>
+            <p>For, take the Kingdom of Heaven for the Seat of Eternal Felicity, take it for Chriſt, take it for the preſent State of the Church, take it for Faith, take it for Charity, take it for the Go<g ref="char:EOLhyphen"/>ſpel. This Kingdom, now great, was little; great in being, little in begin<g ref="char:EOLhyphen"/>ning. Heaven, diſ-peopled by the fall of the rebellious Spirits, grew ſmall. <hi>Chriſt</hi> in <hi>Bethlehem</hi> had his Crib. The Church was once an Infant; Faith, Charity, and the Goſpel, were con<g ref="char:EOLhyphen"/>fined to a few followers of Chriſt: Behold the ſmallneſs of the Muſtardſeed.
+<pb n="5" facs="tcp:60777:4"/>Since the coming of <hi>Chriſt,</hi> Heaven is grown Populous, and <hi>Chriſt</hi> Glorious. His Church, Faith, Charity, and the Goſpel, though now and then kept down by oppoſition, are evermore vi<g ref="char:EOLhyphen"/>gorouſly branching forth, <hi>a mari uſque ad mare, from Sea to Sea, Pſal.</hi> 21. <hi>v.</hi> 8. Behold the increaſe, to the verifying <hi>Chriſt</hi>'s words, <hi>Simile eſt Regnum Coe<g ref="char:EOLhyphen"/>lorum grano Sinapis; The Kingdom of Heaven is like unto a Muſtard-ſeed.</hi>
+            </p>
+            <p>The <hi>Kingdom of Heaven</hi> is the King<g ref="char:EOLhyphen"/>dom of God; And the <hi>Kingdom of God,</hi> as our Saviour tells us, <hi>Luke</hi> 17. <hi>ver.</hi> 21. <hi>is within our ſelves; Regnum Dei intra vos. eſt.</hi> It is not the Place or Region, it is the Subjects, which make the Kingdom. We are the Kingdom of Heaven, but like the Muſtardſeed we muſt increaſe; And this increaſe, grounded on the true meaſure of <hi>great</hi> and <hi>little,</hi> ſhall be the Subject of my Diſcourſe; having firſt
+<pb n="6" facs="tcp:60777:5"/>implored the Divine Aſſiſtance, by the Interceſſion of the Glorious Virgin, who little in her own Eye, grew to be ſo great, as to be Mother of God, and Queen of Heaven. <hi>Ave Maria.</hi>
+            </p>
+            <div type="part">
+               <head>Simile eſt Regnum Coelorum grano Sinapis, The Kingdom of Heaven is like to a Muſtard-ſeed.</head>
+               <p>THE <hi>Kingdom of Heaven</hi> is with<g ref="char:EOLhyphen"/>in our ſelves; like the <hi>Muſtard-ſeed</hi> we muſt increaſe; and to increaſe, we are to frame a true meaſure of great and little. To paſs from equal to equal, is no increaſe; to paſs from great to little, is to decreaſe; to In<g ref="char:EOLhyphen"/>creaſe, is to riſe from leſs to more, from little to great, from great to greater.</p>
+               <p>Now in order to this, my firſt re<g ref="char:EOLhyphen"/>flection is, That <hi>Chriſt</hi> ſays, <hi>The King<g ref="char:EOLhyphen"/>dom of Heaven is like unto a Muſtard-ſeed;</hi>
+                  <pb n="7" facs="tcp:60777:5"/>he ſays not it is equal. Between <hi>little</hi> and <hi>great,</hi> ſimilitude there may be, Equality there can be none. Though our Saviour then likens the <hi>Kingdom of Heaven</hi> to a <hi>Muſtard-ſeed;</hi> it follows not that Men may equal the Muſtard-ſeed of Earthly things to the <hi>Kingdom of Heaven.</hi> No, it only enſues, That like the <hi>Muſtard-ſeed</hi> they muſt in<g ref="char:EOLhyphen"/>creaſe.</p>
+               <p>My ſecond Reflection is, That one of the diſorders which reign in this ſin<g ref="char:EOLhyphen"/>ful World, and which obſtructs our increaſe in Virtue, Piety, and Religi<g ref="char:EOLhyphen"/>on, the Head and Source, from which all our calamities flow, is a falſe mea<g ref="char:EOLhyphen"/>ſure of <hi>great</hi> and <hi>little;</hi> This occaſions a wrongful eſtimate of things, ſo that what to the partial Eye of depraved ſenſe and humour, appears <hi>great,</hi> though <hi>little,</hi> and <hi>little</hi> though <hi>great,</hi> to our abuſed Reaſon, is apt to appear the
+<pb n="8" facs="tcp:60777:6"/>ſame; and Men, becoming unjuſt pri<g ref="char:EOLhyphen"/>zers, in place of increaſing by paſſing from <hi>little</hi> to <hi>great,</hi> decreaſe by falling from <hi>great</hi> to <hi>little,</hi> to the diminiſh<g ref="char:EOLhyphen"/>ing the <hi>Kingdom of Heaven,</hi> and aug<g ref="char:EOLhyphen"/>menting the Kingdom of Darkneſs.</p>
+               <p>Hence it is, that Virtue is forced to retreat, and yield to Vice; True Glo<g ref="char:EOLhyphen"/>ry to a Shadow. Hence it is, that a never-failing Bliſs gives way to momen<g ref="char:EOLhyphen"/>tary content, Heaven to Earth, Eter<g ref="char:EOLhyphen"/>nity to Time. Hence it is, that the Soul goes at ſo low a rate, for <hi>little,</hi> obſcure, or nothing. Hence it is that the Body is proclaim'd the ſubject of courtſhip, admiration, and Wor<g ref="char:EOLhyphen"/>ſhip, as enormous a folly, as to prefer the husk before the Seed, or the courſe and rough Shell to the rich and noble Pearl which lodges in it. The Soul, the Soul, though ſeemingly <hi>little</hi> is <hi>great,</hi>
+                  <pb n="9" facs="tcp:60777:6"/>and the firſt ſtep to its increaſe, is to know its own greatneſs.</p>
+               <p>Dim Antiquity ſitting in the Shade of its Native Ignorance, without the light of Faith, could ſee no further, than what was groſs and material, and therefore, thought it ſaid enough to en<g ref="char:EOLhyphen"/>hance the dignity of Man, by entitu<g ref="char:EOLhyphen"/>ling him <hi>Microcoſmus, the little World.</hi> A Title bearing ſomething of glorious, and flattering many a fancy; yet ta<g ref="char:EOLhyphen"/>king it into due conſideration, barely as it lies, without other conſtruction, I cannot but recede from the common Vogue; For if we take Man for the Bo<g ref="char:EOLhyphen"/>dy alone; Man, I cannot deny, may paſs for a little World, keeping a propor<g ref="char:EOLhyphen"/>tion with the greater, which environs it: The Head and Breaſt may be re<g ref="char:EOLhyphen"/>ſembled to the Heavens; the Heart and Brain, to the ſo much influencing Pla<g ref="char:EOLhyphen"/>nets, Sun and Moon; his Eyes to the
+<pb n="10" facs="tcp:60777:7"/>Stars, his waking to the Day, his Sleep to the Night; the Circulation of his Blood, to the conſtant returns of Rivers to the Sea from whence they ſprung; the reſt of the Body to the Earth. All well. But can the Body alone, that debaſing part of Man, with Truth and Juſtice be termed Man? You'l tell me, no; And if not, though the Body may be ſtil'd a little World, Man cannot. It is below his worth and greatneſs. Man, if a World, he is a great one; and this World which encompaſſes his Body, confronted with Man, is but little. It is not vainly to boaſt, it is not to Hyperbolize, it is to raiſe a juſt conceit of a Soul ſo much depreſs'd in our eſteem. I ſay all this, and I ſay no more than what reaſon upholds. Will you have the proof? I draw it from what is undeniable: For if we ſpeak even of greatneſs in ex<g ref="char:EOLhyphen"/>tent,
+<pb n="11" facs="tcp:60777:7"/>in which this World ſeems to exceed: That is greater, which con<g ref="char:EOLhyphen"/>taineth; that which is contained, is leſs: on this account the Body is called a <hi>lit<g ref="char:EOLhyphen"/>tle World,</hi> becauſe encloſed; the encloſing World, the greater. Is it not ſo? can any deny it? None. I take then for granted what none deny, and upon this bottom carry on my Diſcourſe.</p>
+               <p>Doth not the mind of Man out<g ref="char:EOLhyphen"/>reach the narrow limits of the Earth? Doth it not upon the wings of ſpecu<g ref="char:EOLhyphen"/>lation, ſoar above the Heavens? Doth it not ſurvey, meaſure, and gather the World in a Thought? This large, this vaſt, this immenſe Univerſe, doth it not bind it within a few lines? doth it not impriſon it in a paper? doth it not caſt it in a Map? The revolutions of the Spheres, and motions of Stars? doth it not confine them, and lay them before your Eyes in a Globe? In this
+<pb n="12" facs="tcp:60777:8"/>like unto its Divine Maker, of whom become a new born Infant, to redeem us, the Church ſings: <hi>Mundum pugillo continens, in his little fiſt he bears a World.</hi> And have not I juſt cauſe to ſay, the Soul of Man is greater than the World? I ſay nothing of the power of his me<g ref="char:EOLhyphen"/>mory, making things paſt to be pre<g ref="char:EOLhyphen"/>ſent; I mention not the force of his Intellect, tranſcending the groſsneſs of Bodies, and working upon Spiritual Beings, and Abſtracts, walking in the ſpaces of Gods Immenſity, and que<g ref="char:EOLhyphen"/>ſtioning poſſibilities. I let alone the natural Appetite of the Will, ever bending and aſpiring to Eternity, all evidences of its refined, ſpiritual, and immortal exiſtency. I contain my ſelf within the bounds of a palpable way of Reaſoning, and am confounded; when I conſider the mean value we frame of a Soul, the high eſteem we
+<pb n="13" facs="tcp:60777:8"/>nouriſh of this World, as if our whole riſe, and increaſe, depended on the pro<g ref="char:EOLhyphen"/>greſs we make in it. Alas! Alas! its Men that enoble the World, the World cannot enoble Men: If the Kingdom of Heaven be like unto a <hi>Muſtard-ſeed</hi> as to increaſe, this World is like to a <hi>Muſtard-ſeed</hi> without increaſe; For compared with Heaven, this World is ſmaller than a <hi>Muſtard-ſeed;</hi> I wiſh it had the virtue to quicken our Rea<g ref="char:EOLhyphen"/>ſon, that it has to open our Brain. Give me leave once more to reaſon it thus:</p>
+               <p>Have you never addreſs'd your ſelf to a <hi>Sun-Dyal,</hi> to ask the hour of the day; You have, and that often. Know then, that very ſhadow, which counts each minute, in every moment gives light, to this important Truth. Your ador'd Earth, what is it think you, O Idolaters of Terrene greatneſs,
+<pb n="14" facs="tcp:60777:9"/>compared to Heaven? Take notice I beſeech you, of what the Dyal makes out. This Earth, in compariſon of Heaven, even in bulk and extent, is leſs than a <hi>Muſtard-ſeed;</hi> Let not the propoſition I ſo boldly advance, ſurpriſe you; I impoſe not upon you, I vent nothing but real Verity. Conſult the Learned, they'l inform you, it is no more than the point of a Needle, than the Centre of a Circle; they'l farther inſtruct you, that on this ſuppoſal, the whole Art of Dyaling relies. The Art, as experience makes out, when rightly practis'd, never faileth, never deceiveth; nor can the ground, on which it depends, be fallacious.</p>
+               <p>Ah Mortals! Mortals! it is not this lower World, it's your deluded Ambition is great. This Earth on which your Glory builds, this Sea on which your Avarice Sayls, is but an
+<pb n="15" facs="tcp:60777:9"/>Attom, is but a Point in <hi>paragon</hi> of Heaven. <hi>Punctum eſt</hi> (ſays the moral Philoſopher) <hi>in quo bella geritis, it is but a point on which you War,</hi> O <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> it is but a <hi>point</hi> on which your Martial Forces draw up, March, and Randezvous; it is but a <hi>point</hi> on which your War-like Inſtruments reſound: It is but a <hi>point</hi> over which your Vi<g ref="char:EOLhyphen"/>ctorious Eagles fly. Subdue Coun<g ref="char:EOLhyphen"/>tries, Fetter the Liberty of Nations, Colour your Purples in the blood of Dying Monarchies; Let <hi>Europe, Aſia,</hi> and <hi>Africa,</hi> draw your Triumphal Chariots: Let <hi>America,</hi> (when known) bring up your Glorious Train, you'l then be Great, you'l be Maſters, you'l be Lords of a World, <hi>terrarum Do<g ref="char:EOLhyphen"/>mini.</hi> You'l have gain'd your <hi>point;</hi> And what is it? what is it? a <hi>point,</hi> a <hi>point;</hi> for no more is the World to Heaven then a <hi>point; punctum eſt,</hi> make
+<pb n="16" facs="tcp:60777:10"/>much of little, ſince you know not to make much of what is Great, Heaven, your Soul, God.</p>
+               <p>But ſo many Empires are paſt, the <hi>point</hi> remains no more theirs: <hi>Ecce gentes quaſi ſtilla ſitulae,</hi> exclaims the Prophet <hi>Iſa. chap.</hi> 40. <hi>ver.</hi> 12. <hi>Behold the Nations like a drop of a Bucket.</hi> A drop, a drop; behold the increaſe of the Adorers of the World, the drop is often puff'd into a bubble, a pleaſant ſight to the Eye, but ſoon breaks, and vaniſhes; <hi>ecce Gentes, behold your Na<g ref="char:EOLhyphen"/>tions,</hi> your Gentiles, your Heathens, your livers without the fear of God, forgotten of Heaven, aſpiring to no<g ref="char:EOLhyphen"/>thing but Earthly Promotion; they riſe with the inconſtant Bucket of For<g ref="char:EOLhyphen"/>tune, to drop and plunge into a deluge of Miſery.</p>
+               <p>
+                  <hi>Punctum eſt;</hi> and if the main, if the whole, be but a <hi>point,</hi> what muſt it's
+<pb n="17" facs="tcp:60777:10"/>Diviſions and Sub-diviſions, Sections and Sub-Sections, prove to be? Your Cottages, your Rights of Common, your Copy-holds, Free holds, Tene<g ref="char:EOLhyphen"/>ments, Mannors, <hi>&amp;c.</hi> what are they, but the Fractions of a <hi>point,</hi> in one re<g ref="char:EOLhyphen"/>moval from nothing? And yet, and yet, How many! how many! <hi>injuri<g ref="char:EOLhyphen"/>ous</hi> to Themſelves, <hi>unmindful</hi> of Hea<g ref="char:EOLhyphen"/>ven, <hi>ungrateful</hi> to God, ſpend their <hi>deſires,</hi> conſume their <hi>loves,</hi> and caſt away their <hi>thoughts</hi> on tranſitory <hi>Tri<g ref="char:EOLhyphen"/>fles,</hi> and <hi>Joys?</hi> As if enſlaving them<g ref="char:EOLhyphen"/>ſelves to Fleſh and World, ſo far be<g ref="char:EOLhyphen"/>neath the noble Nature of a Soul, could add to their greatneſs. What Suits? what Animoſities? what Feuds? what a living like Canibals, even amongſt Chriſtians? what endeavours to depreſs and devour each other; and all for the ſmall part of a <hi>point? Punctum eſt,</hi> and that not durable.</p>
+               <pb n="18" facs="tcp:60777:11"/>
+               <p>I have contained my Diſcourſe with<g ref="char:EOLhyphen"/>in the bounds of Natural Reaſon; But if you'l have the true value of a Soul, open the Eyes of a <hi>lively Faith,</hi> ſee your <hi>Creator</hi> become a <hi>Redeemer,</hi> ſee your God dying upon a <hi>Croſs,</hi> and remember that <hi>Blood,</hi> that <hi>Death,</hi> of Infinite worth, are the Price and Ran<g ref="char:EOLhyphen"/>ſome of your Soul. A little reſpit, and I come in my ſecond part to ſolve an Objection of a Worldling.</p>
+            </div>
+            <div type="part">
+               <head>Simile eſt Regnum Coelorum Grano Sina<g ref="char:EOLhyphen"/>pis, The Kingdom of Heaven is like to a Muſtard-ſeed.</head>
+               <p>IN my firſt part I have made it my endeavour, to ſet forth the diſpari<g ref="char:EOLhyphen"/>ty that runs between this World, and a Soul; and by conſequence, That Man cannot aſpire to an increaſe, by levelling his thoughts at any thing this
+<pb n="19" facs="tcp:60777:11"/>World affords, a world ſo little, ſo vain, ſo unconſtant.</p>
+               <p>But I fear a Melancholly dumpiſh Fit has ſeiz'd you, ſo are you out of humour with the World; Methinks I hear one of thoſe ſay, who affect Wit, by a nauſeous drolling at Piety; I ap<g ref="char:EOLhyphen"/>prehend, you Preachers, heat your ſelves to little Purpoſe. We are of a cooler temper, we have not ſo much of the <hi>Muſtard-ſeed,</hi> as to take ſnuff at the World for every Impreſſion, threat of Hell, or name of Heaven. Heaven and Hell are things remote.</p>
+               <p>We live in the World, to riſe, and increaſe: And to this end, we ſtudy to foot ſure; <hi>Faith</hi> and <hi>Religion,</hi> we know, have a fair ſtroke for the other World, but have forfeited many a Loyal Life, Eſtate, and Fortune in this; we have a Family to provide for, our ſelves; We muſt live according to
+<pb n="20" facs="tcp:60777:12"/>our Birth and Quality. In a word, make Piety and Religion, our increaſe and Intereſt upon Earth, and we will ſoon be Saints for Heaven.</p>
+               <p>You have ſpoke like what you are, with much Prophanity, little Wit, and no Reaſon; By all which, the coolneſs of your temper diſcovers it ſelf. Hea<g ref="char:EOLhyphen"/>ven and Hell, you tell me, are things afar off; and I would have you know, that Heaven is no farther off, than you'l make it, and Hell perhaps, is nearer than you think it. You ſay you live in the World, great news! I thought you had liv'd out of it; For thoſe that live in the World like Men, and go<g ref="char:EOLhyphen"/>vern themſelves with Faith and Rea<g ref="char:EOLhyphen"/>ſon, are ſenſible they are placed here to ſerve God, and work their Salva<g ref="char:EOLhyphen"/>tion. You'l foot ſure; and can there be ſure footing in the ſlippery way of Vice? You are to provide for a <hi>Poſte<g ref="char:EOLhyphen"/>rity,</hi>
+                  <pb n="21" facs="tcp:60777:12"/>and are you therefore to neglect an <hi>Eternity?</hi> But you muſt live according to your Birth and Quality: And at the holy Font of Baptiſm, were you not regenerated to be the Heirs of Heaven, and qualified to be the Chil<g ref="char:EOLhyphen"/>dren of God; You bid me make Pie<g ref="char:EOLhyphen"/>ty and Religion your Intereſt upon Earth; and is it not the greateſt of In<g ref="char:EOLhyphen"/>tereſts, that by the pious Exerciſes of True Religion, you may purchaſe the unvaluable Treaſure of <hi>Heavenly Bliſs?</hi> But your meaning is, make Piety and Religion your way to Riches, Honour, and Greatneſs upon Earth, and then you'l be Saints for Heaven. I under<g ref="char:EOLhyphen"/>ſtand you. In place of your buying Heaven, youl'd have Heaven buy you. But let me tell you, Heaven admits of no ſuch Saints, who will not venture the few and vain ſatisfactions of this World, to ſecure their Soul, the poſ<g ref="char:EOLhyphen"/>ſeſſion
+<pb n="22" facs="tcp:60777:13"/>of God, and a happy Eternity.</p>
+               <p>
+                  <hi>Quid prodeſt homini?</hi> It's our Saviour expoſtulates the caſe, with too raſh Followers of a Sinful World, <hi>ſi totum mundum lucretur, animae vero ſuae detri<g ref="char:EOLhyphen"/>mentum patiatur; What is a man profited, if he gain the whole World, and loſe his own Soul?</hi>
+                  <note place="margin">Mat. 16. ver. 26.</note> A preſſing Inſtance: <hi>quid prodeſt, where is the profit?</hi> where the Income? where the pretended increaſe, ſuppoſe one <hi>gain the World, and loſe his Soul?</hi> Anſwer if you can. The propo<g ref="char:EOLhyphen"/>ſal is clear and urging. Where the loſs is ſo much exceeding, you'l tell me, as that of the Soul is, there can be no pro<g ref="char:EOLhyphen"/>fit, in the gain even of a World.</p>
+               <p>You ſpeak well; it is the current and obvious Expoſition, abundantly confirming the preſent Truth. Yet ſpending ſeveral reflexions upon theſe words. Something, methinks, I diſco<g ref="char:EOLhyphen"/>ver in them more, then at the firſt ſight
+<pb n="23" facs="tcp:60777:13"/>appears. For as the caſe is ſtated, the ſame Man is the gainer, the ſame the loſer, a <hi>gainer of the whole World, and a loſer of his Soul.</hi>
+               </p>
+               <p>Should you queſtion me: <hi>quid pro<g ref="char:EOLhyphen"/>deſt, where is the profit?</hi> I ſhould in<g ref="char:EOLhyphen"/>cline to anſwer, in not being a loſer, of both World and Soul; becauſe, as the caſe ſtands, though loſer of his Soul, he's gainer of the World. A fallacy, a fallacy, ſupported only by the igno<g ref="char:EOLhyphen"/>rance of what the loſs of a Soul is; And Chriſts words furniſhes me with this retortion: By the loſs of his Soul he loſes himſelf; now the gainer being the ſame as the loſer, both are loſt; and themſelves being loſt, they are at a to<g ref="char:EOLhyphen"/>tal loſs. At the loſs of a World, loſs of Soul, loſs of God, O what loſſes! Let World then be forfeited, ſo it be with the ſaving of our Soul, and the
+<pb n="24" facs="tcp:60777:14"/>gain of Gods favour. It is but juſt, no loſs, but an increaſe.</p>
+               <p>Miſ-interpret me not, as if I were for the neglect of Employments and Concerns; I know the good govern<g ref="char:EOLhyphen"/>ment of the World, requires Applica<g ref="char:EOLhyphen"/>tion to Worldly Affairs. I am not ignorant, that pretenſions to increaſe of Fortune, by way of Virtue and Me<g ref="char:EOLhyphen"/>rit, are Duties juſtly challenged by Gods Vicars at your hands. But then be pleaſed to remember, your firſt ob<g ref="char:EOLhyphen"/>ligation is to God, your chief imploy<g ref="char:EOLhyphen"/>ment to regulate your proceedings, by his Laws; from Him you had your Being, from Him you muſt have your increaſe. Religion is not to be ſway'd by Interſt, but Intereſt by Religion; Paſſion is not to govern Reaſon, nor Reaſon to queſtion Gods Commands; Juſtice muſt neither be daunted, nor
+<pb n="25" facs="tcp:60777:14"/>brib'd, by what this World may pro<g ref="char:EOLhyphen"/>poſe. In a word, for a <hi>point,</hi> and leſs than a <hi>point,</hi> be it Earthly Honor, be it Wealth, be it Pleaſure, we are not to loſe our Soul; to our everlaſting loſs, decreaſe and perdition. Otherwiſe you will repent when it is too late, and when your Tears will only water, and not waſh away the Guilt of a Sinful Life.</p>
+               <p>Too late, too late, the Unrighteous cry out, in the Book of <hi>Wiſdom;
+<note place="margin">Chap. 6. ver. 7.</note> Laſ<g ref="char:EOLhyphen"/>ſati ſumus in via iniquitatis &amp; perditio<g ref="char:EOLhyphen"/>nis, We are tired out in the way of Ini<g ref="char:EOLhyphen"/>quity and Perdition; Ambulavimus vias difficiles, We have walked rough ways; Viam Dei ignoravimus, We knew not the way of the Lord:</hi> Too long deferr'd a Repentance, forced by Anguiſh and Torment, but no Remedy. <hi>Laſſati ſumus, We are tired.</hi> And why? If Sin and Iniquity tired you, why were
+<pb n="26" facs="tcp:60777:15"/>you not tired with Iniquity and Sin<g ref="char:EOLhyphen"/>ning? <hi>Vias difficiles Ambulavimus, You have trod hard ways;</hi> And why did you not <hi>foot</hi> the eaſier paths of Righ<g ref="char:EOLhyphen"/>teouſneſs, to the peace of your Con<g ref="char:EOLhyphen"/>ſcience, and quiet of your Souls? <hi>Vias Domini ignoravimus, We were ig<g ref="char:EOLhyphen"/>norant of the ways of the Lord:</hi> And how ſo? Was not the way of the Lord revealed, and open to you, as well as to others? Fond Complaints! Fruit<g ref="char:EOLhyphen"/>leſs Excuſes! Affected Ignorance! You would not know, what you would not perform; you hated Truth, to em<g ref="char:EOLhyphen"/>brace Vanity: Intereſt was your Re<g ref="char:EOLhyphen"/>ligion, Ambition your Guide, and not Piety; Prophanity your Rule, and not Devotion; you enſlav'd Faith to Senſe, Reaſon to Paſſion, Soul to Body, and by a falſe Perſpective repreſenting unto your ſelves, <hi>great</hi> for <hi>little,</hi> and <hi>little</hi> for <hi>great,</hi> you aſpired to ſettle your Great<g ref="char:EOLhyphen"/>neſs
+<pb n="27" facs="tcp:60777:15"/>and Happineſs in a Contemptible World, by relinquiſhing God; And whereas, like the <hi>Muſtard-ſeed,</hi> raiſing your ſelf <hi>from little</hi> to <hi>great,</hi> to God, to Eternal Bliſs, by your own increaſe, you ſhould have increaſed the King<g ref="char:EOLhyphen"/>dom of Heaven: Falling from <hi>great</hi> to <hi>little,</hi> you have made an acceſſion to the Princedom of Torment. And now <hi>quid prodeſt, quid prodeſt?</hi> what doth it avail you? what doth it avail you, to have maſter'd a World? The World is where it was, and you in Hell.</p>
+               <p>
+                  <hi>Crucior in hac flamma,</hi> exclaims the Rich Man, we commonly call <hi>Dives. I am tormented in this Fire:</hi> Where our Saviour, bringing in <hi>Abraham</hi> and <hi>Dives</hi> diſcourſing together, emboldens me to put in a Word to my purpoſe, and ſo end. Good News, O <hi>Dives!</hi> from the other World. And what, ſays he, are the <hi>Tydings</hi> of the other
+<pb n="28" facs="tcp:60777:16"/>World to me, who am in pain, but painful? Your Children are jocund. And I, ſighing: They peaceable enjoy the Riches, the Titles, the Honours, with ſo much Toil thou entaileſt upon them. And my Inheritance are gnaſh<g ref="char:EOLhyphen"/>ing of Teeth, a <hi>never-dying Worm,</hi> Re<g ref="char:EOLhyphen"/>proach and Ignominy. That Pallace of which, <hi>Wealth</hi> laid the firſt Stone, by Magnificency the Architect is now compleated. And I, unhappy dwell in a Dungeon of Horror and Darkneſs: The Gardens you deſign'd are curiouſ<g ref="char:EOLhyphen"/>ly divided, the Walks laid out, the Flowers breath a conſtant Spring and Paradiſe: And here in ſtench I am chain'd, only permitted to walk with my diſmal Fancy from torment to tor<g ref="char:EOLhyphen"/>ment. Comfort, O <hi>Davies,</hi> thoſe lit<g ref="char:EOLhyphen"/>tle <hi>Cypreſſes,</hi> all thrive and are grown up, to defiance of the ſcorching Sun. And I burn; Your Fountains run and
+<pb n="29" facs="tcp:60777:16"/>ſport, your Waterworks Play to admi<g ref="char:EOLhyphen"/>ration within your ſhady Groves; and neither Shade, or a drop of Water have I to temper my exceſſive Flames. That Wilderneſs you planted with ſuch ex<g ref="char:EOLhyphen"/>quiſit art, is grown up into a Labyrinth, where pleaſure has loſt its ſelf, to be found by all that enter; And I am loſt, ſays he, in the inextricable Labyrinth of Fire, of Torment, of a woful Eter<g ref="char:EOLhyphen"/>nity. I burn, I burn, and burn I muſt for ever. <hi>Cruciar in hac flamma;</hi> Such, beloved Brethren, is the apparent <hi>increaſe,</hi> and real <hi>decreaſe</hi> of thoſe, who value <hi>Intereſt</hi> above <hi>Religion,</hi> their own Hu<g ref="char:EOLhyphen"/>mours, above Gods Precepts; Body above Soul, Vice above Virtue, and Earth above Heaven; and ſo it ends, without ever finding an end of miſery. By an oppoſite way of living, let us change the <hi>decreaſe</hi> into an <hi>increaſe,</hi> by a right eſtimate of what is Truth, and
+<pb n="30" facs="tcp:60777:17"/>what Impoſture, what Temporal, what Eternal.</p>
+               <p>The <hi>Muſtard-ſeed</hi> begins early; no ſooner committed to the Earth, but it works its increaſe; its perſeverant, of a hot nature, that is, as it were reſolute. The like are we to be, we muſt begin, we muſt perſevere, we muſt be reſolute, <hi>Reg<g ref="char:EOLhyphen"/>num Coelorum vim patitur &amp; violenti ra<g ref="char:EOLhyphen"/>piunt illud: The Kingdom of Heaven ſuf<g ref="char:EOLhyphen"/>fereth violence, and the violent bear it away.</hi> We are to be reſolute in a <hi>True Faith,</hi> of undaunted <hi>Hope,</hi> and fervent <hi>Charity,</hi> that ſo by raiſing our thoughts to a true eſteem of our Soul, to God, to Life Eter<g ref="char:EOLhyphen"/>nal, we may increaſe the Kingdom of Heaven, and the Kingdom of Heaven, like the <hi>Muſtard-ſeed,</hi> may increaſe by us; which God of his Infinite Mercy grant us, <hi>In the name of the Father, and of the Son, and of the Holy Ghoſt,</hi> Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
